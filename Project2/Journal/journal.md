@@ -1,0 +1,1 @@
+This is the journal for project 2.
