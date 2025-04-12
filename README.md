@@ -1,1 +1,1 @@
-This is a test
+These are all the journals / design docs for my CSE190 Projects
